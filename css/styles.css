@@ -1225,7 +1225,7 @@ height: auto;
   }
   .footer .container {
     row-gap: 72px;
-    justify-content: flex-start;
+    /* justify-content: flex-start; */
   }
   .footer-flex {
     display: flex;
